@@ -1,0 +1,279 @@
+body {
+  background-color: white;
+  font-family: Arial, sans-serif;
+  color: black;
+}
+
+header {
+  background-color: #034694;
+}
+
+nav ul li a {
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+nav ul li a:hover {
+  background-color: #6495ED;
+}
+nav ul li a.active,
+nav ul li a:active {
+  background-color: #6495ED;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #034694;
+}
+
+nav ul li {
+  margin-right: 15px;
+}
+
+nav ul li:last-child {
+  margin-right: 0;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.image-container img {
+  width: 25%;
+  height: auto;
+}
+
+.image-container img.left {
+  margin-right: auto;
+}
+
+.image-container img.right {
+  margin-left: auto;
+}
+main section {
+  color: #5072A7;
+}
+section {
+  background-color: white;
+  padding: 50px;
+}
+
+section h2 {
+  color: #0077c2;
+}
+
+main {
+  background-color: white;
+  padding: 50px;
+}
+
+.staff-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.staff-container .staff-info {
+  margin-left: 10px;
+}
+
+.staff-container img {
+  width: 30%;
+  height: auto;
+   
+}
+
+.staff-container .left {
+  margin-right: auto;
+}
+
+.staff-container .right {
+  margin-left: auto;
+}
+
+.staff-container .top-right,
+.staff-container .bottom-right {
+  margin-left: auto;
+}
+.staff1-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  margin-top: 10px;
+}
+
+.staff1-container img {
+  width: 45%;
+  height: auto;
+}
+
+.staff1-info {
+  width: 45%;
+  padding-left: 20px;
+}
+
+.staff1-info h2,
+.staff1-info h3,
+.staff1-info h4 {
+  margin-top: 0;
+}
+
+.staff1-info h4 {
+  margin-bottom: 10px;
+}
+
+.staff1-info p {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #034694;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-media {
+  text-align: left;
+}
+
+.social-media a {
+  display: inline-block;
+  margin-right: 20px;
+  color: #0099ff;
+}
+
+.company-name {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.contact-info {
+  text-align: right;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+}
+
+.contact-info p {
+  margin: 0;
+}
+
+.contact-info a {
+  color: white;
+  text-decoration: none;
+}
+.JobsPage {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding: 50px;
+}
+
+.JobsPage h2 {
+  margin-top: 0;
+  text-decoration: underline;
+}
+
+.JobsPage p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.JobsPage h3 {
+  margin-top: 40px;
+  align-items: left;
+}
+
+
+main section.training-courses {
+  text-align: left;
+  padding: 50px;
+}
+
+.training-courses h1.center {
+  text-align: center;
+  font-size:35px;
+}
+
+.training-courses h1.underline,
+.training-courses h2.underline {
+  text-decoration: underline;
+}
+
+.training-courses ul {
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.training-courses li {
+  margin-bottom:
+}
+	.ApplyPage h1 {
+		margin-top: 0;
+  text-align: center;
+  text-decoration: underline;
+  color: #0077c2;
+	}
+	
+	
+		input, select {
+			display: block;
+			width: 100%;
+			padding: 10px;
+			margin-bottom: 10px;
+			border-radius: 5px;
+			border: 1px solid #ccc;
+			font-size: 16px;
+		}
+		input[type="submit"] {
+			background-color: #034694;
+			color: #fff;
+			border: none;
+			cursor: pointer;
+			padding: 10px;
+			border-radius: 5px;
+			font-size: 16px;
+			margin-top: 20px;
+		}
+		input[type="file"] {
+			display: block;
+			margin-top: 10px;
+		}
+		label {
+			font-size: 16px;
+			font-weight: bold;
+			margin-bottom: 5px;
+			display: block;
+		}
+		
+				form {
+			margin: 0 auto;
+			max-width: 500px;
+			padding: 20px;
+			border: 1px solid #ddd;
+			border-radius: 5px;
+		}
+	
+
+	 
+	 
+
+
+  
+		
+		
