@@ -138,6 +138,12 @@ main {
   margin-bottom: 20px;
 }
 
+.staff-info p.role {
+  color: #5072A7;
+  font-weight: bold;
+}
+
+
 footer {
   background-color: #034694;
   color: white;
