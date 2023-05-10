@@ -127,6 +127,7 @@ main {
 .staff1-info h3,
 .staff1-info h4 {
   margin-top: 0;
+color: #0077c2;
 }
 
 .staff1-info h4 {
@@ -136,6 +137,7 @@ main {
 .staff1-info p {
   margin-top: 0;
   margin-bottom: 20px;
+color: #5072A7;
 }
 
 .staff-info p.role {
